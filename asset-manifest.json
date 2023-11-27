@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BasicReactWebpage/static/css/main.f54bb27a.css",
+    "main.js": "/BasicReactWebpage/static/js/main.c98f446c.js",
+    "static/js/787.513617a5.chunk.js": "/BasicReactWebpage/static/js/787.513617a5.chunk.js",
+    "static/media/golden_gate.jpg": "/BasicReactWebpage/static/media/golden_gate.fd82b2c1f123b33b71d7.jpg",
+    "static/media/logo.svg": "/BasicReactWebpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BasicReactWebpage/index.html",
+    "main.f54bb27a.css.map": "/BasicReactWebpage/static/css/main.f54bb27a.css.map",
+    "main.c98f446c.js.map": "/BasicReactWebpage/static/js/main.c98f446c.js.map",
+    "787.513617a5.chunk.js.map": "/BasicReactWebpage/static/js/787.513617a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f54bb27a.css",
+    "static/js/main.c98f446c.js"
+  ]
+}
